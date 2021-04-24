@@ -1,9 +1,5 @@
 body
-
-<link rel="stylesheet" type="text/css" href="style.css">
-<!--google font-->
-<link rel="preconnect" href="https://fonts.gstatic.com">
-<link href="https://fonts.googleapis.com/css2?family=Dokdo&display=swap" rel="stylesheet">
+ {background-color: coral;}
 /* Style the header with a grey background and some padding */
 .header {
   overflow: hidden;
